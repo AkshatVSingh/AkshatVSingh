@@ -1,93 +1,59 @@
-# Akshat Singh
+# 👋 Hey, I'm Akshat Singh
 
-**Robotics & Automation Engineer | Edge AI | IIoT**  
-B.Tech (2026) — Symbiosis Institute of Technology, Pune  
-R&D Intern at Hosei University, Tokyo  
+Robotics & Automation engineer building things at the intersection of **hardware, AI, and real-world systems** — from edge-deployed models to industrial automation. Currently doing R&D at Hosei University in Tokyo, and open to full-time roles in Japan from June 2026.
 
-- Open to full-time roles in Japan from July 2026  
-- JLPT N3 | Business-level Japanese  
-- Focus: Edge AI, Robotics, Intelligent Systems  
+JLPT N3 · B.Tech 2026 · Symbiosis Institute of Technology, Pune
 
 ---
 
-## About Me
+## What I've Been Working On
 
-I build systems that integrate **hardware, AI, and automation**—from embedded control to intelligent decision-making.
+### At Hosei University, Tokyo (Feb – Jun 2026)
+Edge AI research — compressing and optimizing LLM systems for deployment on constrained hardware. Cut inference latency by ~30% using quantization and pruning, improved generalization 12% via transfer learning, and achieved 40% model size reduction with 95% accuracy retained.
 
-- Edge AI research: model compression, NLP on constrained devices  
-- Experience across robotics, IIoT, drones, and AI systems  
-- Strong in Python, C++, ROS2, and industrial automation tools  
+### At Alligator Automations, Pune (Jul – Nov 2025)
+IIoT and industrial automation — integrating multi-vendor PLC systems (Siemens, Mitsubishi, Beckhoff) and improving SCADA uptime and response times.
 
----
+### At Hypstuma, Chennai (May – Jun 2025)
+Drone engineering — designed a nano-drone platform and built an altitude-hold algorithm that reduced drift by 20%.
 
-## Experience
-
-### R&D Intern — Hosei University, Tokyo  
-**Feb 2026 – Jun 2026**
-- Reduced inference latency by ~30% using quantization & pruning  
-- Improved model generalization by 12% via transfer learning  
-- Compressed LLM systems by 40% with 95% accuracy retention  
-
-### IIoT & Automation Intern — Alligator Automations, Pune  
-**Jul 2025 – Nov 2025**
-- Integrated multi-PLC systems (Siemens, Mitsubishi, Beckhoff)  
-- Improved uptime and reduced response times in SCADA systems  
-
-### Drone Engineering Intern — Hypstuma, Chennai  
-**May 2025 – Jun 2025**
-- Designed nano-drone with improved flight stability (+15%)  
-- Built altitude-hold algorithm reducing drift by 20%  
-
-### AI/ML Intern — Startup Nation India  
-**Mar 2025 – Apr 2025**
-- Automated 95% of research workflows using AI tools  
-- Built NLP chatbot covering 200+ use cases  
+### At Startup Nation India (April - May 2025)
+AI/ML Engineer - Creating Scalping and chat bots that reduced employee workload by 90%.
 
 ---
 
 ## Projects
 
-### Smart Hydroponic System
-- IoT + ML-based system with 92% data accuracy  
-- Reduced fertilizer waste by 22%  
+**TradeDayTerminal** — Browser-based trading journal with session logging, analytics, AI-powered pattern detection, and a backtesting simulator. React + TypeScript, runs fully client-side. [Live on this link](https://akshatvsingh.github.io/TradeDayTerminal/)
 
-### CodeSage — AI Documentation Tool
-- Generates code documentation using NLP + static analysis  
+**Smart Hydroponic System** — IoT + ML pipeline for automated nutrient management. 92% sensor accuracy, 22% reduction in fertilizer waste.
 
-### AI Fitness Trainer
-- Real-time exercise detection using computer vision  
+**CodeSage** — generates code documentation automatically using NLP and static analysis.
 
-### FPV Drone System
-- PID-controlled quadcopter with <5 cm hover variance  
+**AI Fitness Trainer** — real-time exercise detection and rep counting via computer vision.
+
+**FPV Quadcopter** — PID-tuned flight controller with under 5 cm hover variance.
 
 ---
 
-## Tech Stack
+## Tech
 
-**Languages:** Python, C++, C, JavaScript  
-**AI/ML:** TensorFlow, Keras, scikit-learn, OpenCV  
-**Robotics:** ROS2, MATLAB, Simulink  
-**IIoT:** PLC (Siemens, Mitsubishi), SCADA  
-**Tools:** Docker, Kubernetes, GCP, Linux  
-**CAD:** SolidWorks, CATIA  
-
----
-
-## Japan Readiness
-
-- JLPT N3 (Business communication capable)  
-- Experience working in Tokyo (Hosei University)  
-- Familiar with Japanese engineering practices (Kaizen, Monozukuri)  
-- Available for full-time roles across Japan  
+```
+Languages     Python · C++ · C · JavaScript · TypeScript
+AI / ML       TensorFlow · Keras · scikit-learn · OpenCV
+Robotics      ROS2 · MATLAB · Simulink
+IIoT          PLC (Siemens, Mitsubishi, Beckhoff) · SCADA
+Web           React · Vite · Tailwind · Zustand · Recharts
+Infra         Docker · Kubernetes · GCP · Linux · GitHub Actions
+CAD           SolidWorks · CATIA
+```
 
 ---
 
 ## Links
 
-- LinkedIn: https://linkedin.com/in/akshat-singh-1b8229297  
-- GitHub: https://github.com/AkshatVSingh  
-- LeetCode: https://leetcode.com/u/AkshatSinghh/  
+[LinkedIn](https://linkedin.com/in/akshat-singh-1b8229297) · [GitHub](https://github.com/AkshatVSingh) · [LeetCode](https://leetcode.com/u/AkshatSinghh/)
 
 ---
 
-*Last updated: March 2026*
+*Available for full-time roles across Japan.*
