@@ -17,20 +17,22 @@ IIoT and industrial automation — integrating multi-vendor PLC systems (Siemens
 ### At Hypstuma, Chennai (May – Jun 2025)
 Drone engineering — designed a nano-drone platform and built an altitude-hold algorithm that reduced drift by 20%.
 
-### At Startup Nation India (April - May 2025)
-AI/ML Engineer - Creating Scalping and chat bots that reduced employee workload by 90%.
+### At Startup Nation India (Apr – May 2025)
+AI/ML Engineer — built scalping and chat bots that reduced employee workload by 90%.
 
 ---
 
 ## Projects
 
-**TradeDayTerminal** — Browser-based trading journal with session logging, analytics, AI-powered pattern detection, and a backtesting simulator. React + TypeScript, runs fully client-side. [Live on this link](https://akshatvsingh.github.io/TradeDayTerminal/)
+**[MeetingScribe](https://AkshatVSingh.github.io/MeetingScribe/)** — AI-powered meeting recorder and intelligence app. Real-time speech-to-text via the browser Web Speech API with optional Groq Whisper integration for higher accuracy. Automatically detects and tags action items, decisions, risks, and questions from live speech. Features per-segment confidence scoring, a live audio visualizer, analytics dashboard, 20-language UI with RTL support, and export to Markdown, TXT, and JSON. Fully client-side — no backend, no cost. Built with React, Vite, and Recharts.
+
+**[TradeDayTerminal](https://akshatvsingh.github.io/TradeDayTerminal/)** — Browser-based trading journal with session logging, analytics, AI-powered pattern detection, and a backtesting simulator. React + TypeScript, fully client-side.
 
 **Smart Hydroponic System** — IoT + ML pipeline for automated nutrient management. 92% sensor accuracy, 22% reduction in fertilizer waste.
 
-**CodeSage** — generates code documentation automatically using NLP and static analysis.
+**CodeSage** — Generates code documentation automatically using NLP and static analysis.
 
-**AI Fitness Trainer** — real-time exercise detection and rep counting via computer vision.
+**AI Fitness Trainer** — Real-time exercise detection and rep counting via computer vision.
 
 **FPV Quadcopter** — PID-tuned flight controller with under 5 cm hover variance.
 
@@ -38,15 +40,15 @@ AI/ML Engineer - Creating Scalping and chat bots that reduced employee workload 
 
 ## Tech
 
-```
-Languages     Python · C++ · C · JavaScript · TypeScript
-AI / ML       TensorFlow · Keras · scikit-learn · OpenCV
-Robotics      ROS2 · MATLAB · Simulink
-IIoT          PLC (Siemens, Mitsubishi, Beckhoff) · SCADA
-Web           React · Vite · Tailwind · Zustand · Recharts
-Infra         Docker · Kubernetes · GCP · Linux · GitHub Actions
-CAD           SolidWorks · CATIA
-```
+| Area | Stack |
+|---|---|
+| Languages | Python · C++ · C · JavaScript · TypeScript |
+| AI / ML | TensorFlow · Keras · scikit-learn · OpenCV |
+| Robotics | ROS2 · MATLAB · Simulink |
+| IIoT | PLC (Siemens, Mitsubishi, Beckhoff) · SCADA |
+| Web | React · Vite · Tailwind · Zustand · Recharts |
+| Infra | Docker · Kubernetes · GCP · Linux · GitHub Actions |
+| CAD | SolidWorks · CATIA |
 
 ---
 
