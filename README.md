@@ -24,17 +24,22 @@ AI/ML Engineer — built an AI scalper and chatbot suite automating 95% of resea
 
 ## Projects
 
-**[MeetingScribe](https://AkshatVSingh.github.io/MeetingScribe/)** — AI-powered meeting recorder and intelligence app. Real-time speech-to-text using the browser's Web Speech API. Automatically detects action items, decisions, risks, and questions from live speech using a local pattern-matching engine — no API keys, fully client-side. Features a live audio visualizer, real-time metrics, analytics dashboard, 20-language UI with RTL support, tags, agenda, action tracking, and export to Markdown, TXT, and JSON. Built with React, Vite, and Recharts. · [GitHub](https://github.com/AkshatVSingh/MeetingScribe)
+**[ICanSpeakProfessionally](https://AkshatVSingh.github.io/icanspeakprofessionally/)** — AI-powered SaaS platform that transforms casual email drafts into polished professional communication. Features AI-driven rewriting, tone adaptation, grammar correction, multilingual support, user authentication, subscription billing, and secure cloud-backed processing. Built with Next.js 14, TypeScript, Claude AI, Clerk, Stripe, PostgreSQL, and modern SaaS architecture principles. · **Live:** https://AkshatVSingh.github.io/icanspeakprofessionally/ · **GitHub:** https://github.com/AkshatVSingh/icanspeakprofessionally
 
-**[TradeDayTerminal](https://akshatvsingh.github.io/TradeDayTerminal/)** — Production-grade browser-based trading journal with session logging, AI-powered pattern detection, analytics, and a backtesting simulator. Three-tier storage (IndexedDB, localStorage, in-memory cache) for offline-first persistence. React 18 + TypeScript + Zustand + Vite.
+**[MeetingScribe](https://AkshatVSingh.github.io/MeetingScribe/)** — AI-powered meeting recorder and intelligence platform. Performs real-time speech transcription and automatically extracts action items, decisions, risks, blockers, and questions from live conversations. Features a live audio visualizer, meeting analytics dashboard, multilingual support (20+ languages), agenda tracking, action management, and export to Markdown, TXT, and JSON. Built with React, Vite, Recharts, and browser-native speech technologies. · **GitHub:** https://github.com/AkshatVSingh/MeetingScribe
 
-**Smart Hydroponic System** — Closed-loop ML + IoT pipeline for automated nutrient management. MATLAB-modelled controller with sensor array (temp/humidity/pH/PAR). 92% data accuracy, 15% plant growth improvement, 22% reduction in fertilizer waste. Deployed on Raspberry Pi via Docker.
+**[Drone Security Analyst Agent](https://github.com/AkshatVSingh/drone-security-analyst-agent)** — AI-powered security monitoring system for analyzing drone telemetry and computer-vision event streams. Detects suspicious activity including loitering, perimeter violations, repeated visits, and anomalous behavior using searchable event memory and rule-based intelligence. Features FastAPI services, SQLAlchemy ORM, OpenCV-based vision analysis, natural-language security queries, risk scoring, incident timelines, PDF reporting, analytics dashboards, and LangChain-compatible agent architecture. Built with Python, FastAPI, SQLite, SQLAlchemy, Pydantic, OpenCV, Docker, Streamlit, and pytest.
 
-**FPV Quadcopter** — 30m-range UAV with MATLAB/Simulink PID tuning achieving under 5cm hover variance. 20% aerial photography efficiency gain via onboard video stabilisation.
+**[TradeDayTerminal](https://akshatvsingh.github.io/TradeDayTerminal/)** — Production-grade browser-based trading journal featuring session logging, AI-powered pattern detection, performance analytics, and historical backtesting. Implements offline-first persistence through a three-tier storage architecture using IndexedDB, localStorage, and in-memory caching. Built with React 18, TypeScript, Zustand, and Vite.
 
-**ML Model Data Visualiser** — Flask + D3.js web app rendering SHAP feature importance and decision boundaries. Cut model interpretation time by 68%.
+**Smart Hydroponic System** — Designed and deployed a closed-loop ML + IoT pipeline for automated nutrient management. Integrated environmental sensing, predictive control, and Raspberry Pi deployment to achieve 92% data accuracy, 15% improved plant growth, and 22% reduction in fertilizer waste. Built using MATLAB, Docker, Python, and IoT sensor networks.
 
-**Photovoltaic & Wind Hybrid Energy System** — Solar + VAWT hybrid delivering 150 kWh/month. MATLAB-validated 25% yield gain vs. single-source. MPPT charge controller reduced energy loss by 18%.
+**FPV Quadcopter** — Developed a custom UAV platform with MATLAB/Simulink-tuned PID control achieving under 5 cm hover variance and stable autonomous flight. Integrated onboard video stabilization and flight-control optimization resulting in a 20% improvement in aerial photography efficiency.
+
+**ML Model Data Visualiser** — Built a Flask and D3.js visualization platform for machine-learning interpretability. Supports SHAP-based feature importance analysis, decision-boundary visualization, and model performance exploration, reducing model interpretation time by 68%.
+
+**Photovoltaic & Wind Hybrid Energy System** — Designed and validated a solar–wind hybrid energy platform combining photovoltaic generation with a vertical-axis wind turbine. Delivered approximately 150 kWh/month and achieved a 25% increase in energy yield compared to single-source generation through MPPT-based optimization.
+
 
 ---
 
