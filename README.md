@@ -34,7 +34,7 @@ AI/ML Engineer — built an AI scalper and chatbot suite automating 95% of resea
 
 **Smart Hydroponic System** — Designed and deployed a closed-loop ML + IoT pipeline for automated nutrient management. Integrated environmental sensing, predictive control, and Raspberry Pi deployment to achieve 92% data accuracy, 15% improved plant growth, and 22% reduction in fertilizer waste. Built using MATLAB, Docker, Python, and IoT sensor networks.
 
-**FPV Quadcopter** — Developed a custom UAV platform with MATLAB/Simulink-tuned PID control achieving under 5 cm hover variance and stable autonomous flight. Integrated onboard video stabilization and flight-control optimization resulting in a 20% improvement in aerial photography efficiency.
+**[FPV Quadcopter](https://github.com/AkshatVSingh/FPVQuadcopter/)** — Developed a custom UAV platform with MATLAB/Simulink-tuned PID control achieving under 5 cm hover variance and stable autonomous flight. Integrated onboard video stabilization and flight-control optimization resulting in a 20% improvement in aerial photography efficiency.
 
 **ML Model Data Visualiser** — Built a Flask and D3.js visualization platform for machine-learning interpretability. Supports SHAP-based feature importance analysis, decision-boundary visualization, and model performance exploration, reducing model interpretation time by 68%.
 
