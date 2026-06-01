@@ -24,7 +24,7 @@ AI/ML Engineer — built an AI scalper and chatbot suite automating 95% of resea
 
 ## Projects
 
-**[ICanSpeakProfessionally](https://AkshatVSingh.github.io/icanspeakprofessionallyy/)** — AI-powered SaaS platform that transforms casual email drafts into polished professional communication. Features AI-driven rewriting, tone adaptation, grammar correction, multilingual support, user authentication, subscription billing, and secure cloud-backed processing. Built with Next.js 14, TypeScript, Claude AI, Clerk, Stripe, PostgreSQL, and modern SaaS architecture principles. 
+**[ICanSpeakProfessionally](https://akshatvsingh.github.io/ICanSpeakProfessionallyy/)** — AI-powered SaaS platform that transforms casual email drafts into polished professional communication. Features AI-driven rewriting, tone adaptation, grammar correction, multilingual support, user authentication, subscription billing, and secure cloud-backed processing. Built with Next.js 14, TypeScript, Claude AI, Clerk, Stripe, PostgreSQL, and modern SaaS architecture principles. 
 
 **[MeetingScribe](https://AkshatVSingh.github.io/MeetingScribe/)** — AI-powered meeting recorder and intelligence platform. Performs real-time speech transcription and automatically extracts action items, decisions, risks, blockers, and questions from live conversations. Features a live audio visualizer, meeting analytics dashboard, multilingual support (20+ languages), agenda tracking, action management, and export to Markdown, TXT, and JSON. Built with React, Vite, Recharts, and browser-native speech technologies.
 
