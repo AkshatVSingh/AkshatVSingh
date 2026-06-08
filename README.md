@@ -8,7 +8,7 @@ JLPT N3 · B.Tech Robotics & Automation 2026 · Symbiosis Institute of Technolog
 
 ## What I've Been Working On
 
-### At Hosei University, Tokyo (Feb – Jun 2026)
+### At Hosei University, Tokyo (Feb 2026 – Present)
 Edge AI research — developing lightweight NLP models for resource-constrained hardware using quantization and pruning (~30% inference latency reduction), transfer learning and domain adaptation (12% generalization improvement), and LLM distillation via knowledge graph compression (40% model size reduction, 95% accuracy retained). Produced bilingual Japanese/English technical documentation throughout.
 
 ### At Alligator Automations, Pune (Jul – Nov 2025)
